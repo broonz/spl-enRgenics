@@ -121,3 +121,4 @@ ENV/
 
 # excel
 .~lock*
+.Rproj.user
